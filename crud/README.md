@@ -5,7 +5,7 @@ CRUD
 
 Backend вы можете либо написать сами, либо взять готовый из каталога `backend`.
 
-![CRUD](./assets/crud.png)
+![CRUD](./src/assets/crud.png)
 
 ## Общая механика
 
